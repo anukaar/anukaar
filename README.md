@@ -1,4 +1,4 @@
-👋 Hi, I’m Anu, an IT-student at Centria.
+👋 Hi, I’m Anu, an IT-student at Centria. <br>
 👀 I’m interested in coding and data engineering.
 🌱 I’m currently learning software testing, mobile programming with Kotlin and cloud operations with AWS and Azure.
 
