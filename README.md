@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anu, an IT-student at Centria.
-- 👀 I’m interested in coding and data engineering.
-- 🌱 I’m currently learning software testing, mobile programming with Kotlin and cloud operations with AWS and Azure.
+👋 Hi, I’m Anu, an IT-student at Centria.
+👀 I’m interested in coding and data engineering.
+🌱 I’m currently learning software testing, mobile programming with Kotlin and cloud operations with AWS and Azure.
 
 
 <!---
