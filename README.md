@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anu, an IT-student
 - 👀 I’m interested in coding and data engineering
-- 🌱 I’m currently learning softaware testing, mobileprogramming with Kotlin and cloud operations with AWS and Azure.
+- 🌱 I’m currently learning software testing, mobileprogramming with Kotlin and cloud operations with AWS and Azure.
 
 
 <!---
